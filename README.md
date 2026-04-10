@@ -43,11 +43,9 @@ Analyze Olympic data to identify trends in medal distribution, country performan
 
 
 ### 🏆 Top 10 Countries by Medal Count
-![Top Countries](top_countries.png)
 <img width="757" height="671" alt="Screenshot 2026-04-10 120347" src="https://github.com/user-attachments/assets/affc4361-ba2b-40bd-be3b-d9a5855d4bb1" />
 
 ### 👥 Gender Distribution
-![Gender Distribution](gender_distribution.png)
 <img width="496" height="534" alt="Screenshot 2026-04-10 120356" src="https://github.com/user-attachments/assets/f4c0db99-8a37-4fd7-a826-3426267d3044" />
 
 ## 🔹 Conclusion
